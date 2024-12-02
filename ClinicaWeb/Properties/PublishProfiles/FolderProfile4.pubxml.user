@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Admin\Desktop\Clinica</_PublishTargetUrl>
+    <History>True|2024-11-30T01:49:31.4126333Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="CadenaSQL">
+      <Value>data source=DBCliniica.mssql.somee.com%3bpersist security info=False%3binitial catalog=DBCliniica%3bTrustServerCertificate=True%3buser id=Damaris23_SQLLogin_5%3bpwd=j7k24rbtzj</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

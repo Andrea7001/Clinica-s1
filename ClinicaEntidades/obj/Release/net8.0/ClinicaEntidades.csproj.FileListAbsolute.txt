@@ -1,0 +1,11 @@
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\bin\Release\net8.0\ClinicaEntidades.deps.json
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\bin\Release\net8.0\ClinicaEntidades.dll
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\bin\Release\net8.0\ClinicaEntidades.pdb
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.AssemblyInfo.cs
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.dll
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\refint\ClinicaEntidades.dll
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ClinicaEntidades.pdb
+C:\Users\Admin\Downloads\116_SistemaClinica_Net8_ADO.NET_NCapas-main\116_SistemaClinica_Net8_ADO.NET_NCapas-main\SistemaClinica\ClinicaEntidades\obj\Release\net8.0\ref\ClinicaEntidades.dll
